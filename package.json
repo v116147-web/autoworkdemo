@@ -1,0 +1,17 @@
+{
+  "name": "google-search-scraper",
+  "version": "1.0.0",
+  "description": "Node.js script to get Google search results for Interior Design Companies in Hong Kong",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["google", "search", "scraper", "interior-design", "hong-kong"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "googleapis": "^128.0.0",
+    "dotenv": "^16.3.1"
+  }
+}
